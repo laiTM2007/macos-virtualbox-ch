@@ -1,7 +1,7 @@
 
 ![macOS inside a VirtualBox window with the dock positioned on the left](https://repository-images.githubusercontent.com/156108442/c501b100-0e5a-11eb-8b49-90afd63f5d03 "macos-guest-virtualbox.sh")
 
-## Push-button installer of macOS on VirtualBox
+## 一键式安装
 
 [`macos-guest-virtualbox.sh`](https://raw.githubusercontent.com/myspaghetti/macos-guest-virtualbox/master/macos-guest-virtualbox.sh) is a Bash script that creates a macOS virtual machine guest on VirtualBox with unmodified macOS installation files downloaded directly from Apple servers.
 
